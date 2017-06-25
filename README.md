@@ -1,4 +1,4 @@
-# MANDOWN SOLUTION
+# MANDOWN SOLUTIONS
 These are the solutions to the Deep Learning challeges for Webvalley 2017 produced by the Mandown Team.
 
 A non interactive version of the notebooks is available here:
